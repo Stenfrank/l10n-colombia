@@ -38,7 +38,7 @@
 						FecFac: {{IssueDate}}
 						HorFac: {{IssueTime}}
 						NitFac: {{ProviderID}}
-						DocAdq: {{DocAdq}}
+						NitAdq: {{NitAdquiriente}}
 						ValFac: {{LineExtensionAmount}}
 						ValIva: {{ValIva}}
 						ValOtroIm: {{ValOtroIm}}
